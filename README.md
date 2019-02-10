@@ -37,3 +37,5 @@ end
 
 Step 4: Then either pod install. It will download all the required dependency from the project.
 $ pod install
+
+Step 5: Open Team Directory.xcworkspace from xcode 10.1
