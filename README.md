@@ -2,7 +2,29 @@
 
 In order to run this project use the following steo before run this project.
 
-Step 1: Install Cocoapods if that is not present in your system with the below command from Command prompt
+
+
+##About the Project ##
+1. Writing an overview of this app
+
+This project is created thinking of idea for a IT manager who handle different types of team. With this App the will able to register and create and team and add team member software. It will help to display all of the team member details of their joining details as well project details. It is a very ggod replacement of excel and present in a more precise manner. Easy searchable and presentable.
+
+2. Provide some screenshots and information about screens
+
+
+
+
+
+
+
+
+
+3. The libraries you used in this project
+        The external libraries used for the project are following
+        Firebase and BRYXBanner
+
+4. Provide requirements to build and run your app
+        Step 1: Install Cocoapods if that is not present in your system with the below command from Command prompt
 $ sudo gem install cocoapods
 
 Step 2: Go to the project directory of this project in the stystem using command pront and type the following command. 
@@ -39,3 +61,13 @@ Step 4: Then either pod install. It will download all the required dependency fr
 $ pod install
 
 Step 5: Open Team Directory.xcworkspace from xcode 10.1
+
+
+###-------END---------####
+
+4a. The iOS version
+        Deployment Target: 12.1
+4b. XCode version
+        Latest Xcode: 10.1
+4c. Swift version
+        Swift 4.2
