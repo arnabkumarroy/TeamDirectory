@@ -4,50 +4,46 @@ In order to run this project use the following steo before run this project.
 
 
 
-##About the Project ##
-1. Writing an overview of this app
+# About the Project #
+
+# 1. Writing an overview of this app
 
 This project is created thinking of idea for a IT manager who handle different types of team. With this App the will able to register and create and team and add team member software. It will help to display all of the team member details of their joining details as well project details. It is a very ggod replacement of excel and present in a more precise manner. Easy searchable and presentable.
 
-2. Provide some screenshots and information about screens
+# 2. Provide some screenshots and information about screens
 
 
 
 
-
-
-
-
-
-3. The libraries you used in this project
+# 3. The libraries you used in this project
         The external libraries used for the project are following
         Firebase and BRYXBanner
 
-4. Provide requirements to build and run your app
+# 4. Provide requirements to build and run your app
         Step 1: Install Cocoapods if that is not present in your system with the below command from Command prompt
-$ sudo gem install cocoapods
+        $ sudo gem install cocoapods
 
-Step 2: Go to the project directory of this project in the stystem using command pront and type the following command. 
+        Step 2: Go to the project directory of this project in the stystem using command pront and type the following command. 
         It will Create a Podfile if you don't have one:
-$ pod init
+        $ pod init
 
-Step 3: Copy paste the following item in the newly created pod file
+        Step 3: Copy paste the following item in the newly created pod file
 
-# Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+        #Uncomment the next line to define a global platform for your project
+        #platform :ios, '9.0'
 
-target 'Team Directory' do
-  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
-  use_frameworks!
+        target 'Team Directory' do
+         #Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+        use_frameworks!
 
-  # Pods for Team Directory
-  pod 'Firebase/Core'
-  pod 'Firebase/Auth'
-  pod 'Firebase/Database'
-  pod 'BRYXBanner'
-  target 'Team DirectoryTests' do
-    inherit! :search_paths
-    # Pods for testing
+        #Pods for Team Directory
+        pod 'Firebase/Core'
+        pod 'Firebase/Auth'
+        pod 'Firebase/Database'
+        pod 'BRYXBanner'
+        target 'Team DirectoryTests' do
+        inherit! :search_paths
+        # Pods for testing
   end
 
   target 'Team DirectoryUITests' do
@@ -63,11 +59,11 @@ $ pod install
 Step 5: Open Team Directory.xcworkspace from xcode 10.1
 
 
-###-------END---------####
+# Provide requirements to build and run your app -- Addition Question
 
-4a. The iOS version
+## 4a. The iOS version
         Deployment Target: 12.1
-4b. XCode version
+## 4b. XCode version
         Latest Xcode: 10.1
-4c. Swift version
+## 4c. Swift version
         Swift 4.2
