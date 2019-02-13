@@ -11,10 +11,13 @@ In order to run this project use the following steo before run this project.
 This project is created thinking of idea for a IT manager who handle different types of team. With this App the will able to register and create and team and add team member software. It will help to display all of the team member details of their joining details as well project details. It is a very ggod replacement of excel and present in a more precise manner. Easy searchable and presentable.
 
 # 2. Provide some screenshots and information about screens
-
-
-
-
+<p align="center">
+  <img width="250" height="400" src="https://github.com/arnabkumarroy/TeamDirectory/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-12%20at%2022.16.05.png">
+</p><p align="center">
+  <img width="250" height="400" src="https://github.com/arnabkumarroy/TeamDirectory/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-12%20at%2022.17.02.png">
+</p><p align="center">
+  <img width="250" height="400" src="https://github.com/arnabkumarroy/TeamDirectory/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-12%20at%2022.17.06.png">
+</p>
 # 3. The libraries you used in this project
         The external libraries used for the project are following
         Firebase and BRYXBanner
